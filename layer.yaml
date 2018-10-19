@@ -1,1 +1,3 @@
 includes: ['layer:apache-php', 'interface:mysql']
+repo: https://github.com/noroutine/noroutine-vanilla.git
+
